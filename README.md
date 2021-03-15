@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParthMmm
 - 👀 I’m interested in a front-end/full-stack role
-- 🌱 I’m currently learning more backend
+- 🌱 I’m currently learning more about backend
 
 
 <!---
