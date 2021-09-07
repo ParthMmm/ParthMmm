@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ParthMmm
-- 👀 I’m interested in a front-end/full-stack role
-- 🌱 I’m currently learning more about backend
+- 👀 I’m currently looking for a frontend or fullstack role
+- 🌱 I’m currently learning TypeScript and Solidity
+[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthmmm)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
