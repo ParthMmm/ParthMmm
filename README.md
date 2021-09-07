@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParthMmm
-- 👀 I’m currently looking for a frontend or fullstack role
+- 👀 I’m looking for a frontend or fullstack role
 - 🌱 I’m currently learning TypeScript and Solidity
 
 
