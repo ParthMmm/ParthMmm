@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning TypeScript and Solidity
 
 
-[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthmmm)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthmmm)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!---
