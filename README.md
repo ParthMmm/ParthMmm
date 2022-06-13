@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParthMmm
 - 👀 I’m looking for a frontend or fullstack role
-- 🌱 I’m currently learning TypeScript and Solidity
+- 🌱 I’m currently learning TypeScript
 
 
 <!-- [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthmmm)](https://github.com/anuraghazra/github-readme-stats) -->
