@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParthMmm
 - 👀 I’m looking for a frontend or fullstack role
-- 🌿 I’m currently building [specto](https://github.com/ParthMmm/specto)
+- 🌿 I’m currently building [auriom](https://github.com/ParthMmm/auriom)
 
 
 <!-- [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthmmm)](https://github.com/anuraghazra/github-readme-stats) -->
